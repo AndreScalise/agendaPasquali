@@ -1,0 +1,42 @@
+﻿body {
+}
+
+header {
+    margin: 0 auto;
+    width: 80%;
+    height: 70px;
+    background-color: #000000;
+    padding: 10PX;
+}
+
+header h1 {
+    color: white;
+    float: right;
+}
+
+nav {
+    color: white;
+    float: left;
+}
+
+main {
+    margin: 0 auto;
+    width: 80%;
+    padding: 10px;
+}
+
+footer {
+    margin: 0 auto;
+    width: 80%;
+    height: 40px;
+    color: white;
+    background-color: #000000;
+    padding: 10px;
+}
+
+.alinhamentocentral {
+    width: 50%;
+    align-content: center;
+    background: #ff0000;
+}
+

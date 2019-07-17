@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29102.190
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "waAgenda", "waAgenda\waAgenda.csproj", "{961998BC-7423-4B7F-A73F-D6BE53E5317B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{961998BC-7423-4B7F-A73F-D6BE53E5317B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{961998BC-7423-4B7F-A73F-D6BE53E5317B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{961998BC-7423-4B7F-A73F-D6BE53E5317B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{961998BC-7423-4B7F-A73F-D6BE53E5317B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6BB1CE66-B57D-4A12-9BF4-20D75F2663FC}
+	EndGlobalSection
+EndGlobal
